@@ -27,4 +27,4 @@ format: FLAC (Free Lossless Audio Codec) [FLAC]
 subtype: Signed 24 bit PCM [PCM_24]
 Please paste path to file or directory, or [q]uit:
 ```
-Currently, this cannot handle `.mp3` extensions or recursive folders. 
+Currently, this cannot handle `.mp3` extensions as the file format was once patented. This does not search folders within folders (recursive folders). 
